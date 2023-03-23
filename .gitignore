@@ -38,3 +38,4 @@ sysinfo.txt
 .idea
 .vscode
 /Logs/
+Assets/xasset/Editor/Build/Steps/CollectAssets.cs
